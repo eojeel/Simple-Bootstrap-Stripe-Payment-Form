@@ -7,6 +7,7 @@ Replace "Stripe Publishable Key" & "Stripe Secret Key" in index.php if you want 
 Improvements are always welcome. GitHub pull requests are even better!
 
 Assembled by Daniel Schröter
+Edited by Joseph Lee
 
 Features
 ===============
